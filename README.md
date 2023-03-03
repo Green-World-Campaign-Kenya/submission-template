@@ -3,27 +3,29 @@
 This is a Github repository template that can be used for submitting your projects during a hackathon. Follow the steps below to get started:
 
 ### Forking the Repository
-Navigate to the repository page on Github.
-Click on the "Fork" button on the top right corner of the page.
-Choose the account or organization you want to fork the repository to.
+1. Navigate to the repository page on Github.
+1. Click on the "Fork" button on the top right corner of the page.
+1. Choose the account or organization you want to fork the repository to.
 
 ### Cloning the Forked Repository
-Navigate to the forked repository on your Github account.
-Click on the "Code" button and copy the HTTPS or SSH URL of the repository.
-Clone the forked repository to your local machine using the following command:
+1. Navigate to the forked repository on your Github account.
+1. Click on the "Code" button and copy the HTTPS or SSH URL of the repository.
+1. Clone the forked repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Green-World-Campaign-Kenya/submission-template.git
 ```
 
 ### Submitting your Project
-Navigate to the forked repository page on Github.
-Click on the "Pull requests" tab.
-Click on the "New pull request" button.
-Select your repository branch as the compare branch and the original template branch as the base branch.
-Click on the "Create pull request" button.
-Add a description of your project and any relevant information.
-Click on the "Create pull request" button again to submit your project.
+
+- Navigate to the forked repository page on Github.
+- Click on the "Pull requests" tab.
+- Click on the "New pull request" button.
+- Select your repository branch as the compare branch and the original template branch as the base branch.
+- Click on the "Create pull request" button.
+- Add a description of your project and any relevant information.
+- Click on the "Create pull request" button again to submit your project.
+
 Good luck with your project and happy hacking!
 
 [Replace the headings and paragraphs as per the instructions]
